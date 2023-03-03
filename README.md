@@ -1,5 +1,4 @@
-# LOSC_Event_tutorial
+# hw02-chankongyuet
 
-The home for this is https://www.gwosc.org/tutorials/
+Binker Link:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-chankongyuet.git/HEAD?urlpath=lab/tree/LOSC_Event_tutorial.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/losc-tutorial/LOSC_Event_tutorial/master?labpath=LOSC_Event_tutorial.ipynb)
