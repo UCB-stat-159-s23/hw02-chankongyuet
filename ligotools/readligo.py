@@ -80,7 +80,7 @@ def read_frame(filename, ifo, readstrain=True, strain_chan=None, dq_chan=None, i
     Helper function to read frame files
     """
 
-    from gwpy.timeseries rTimeSeries
+    from gwpy.timeseries import TimeSeries
 
 
     if ifo is None:
